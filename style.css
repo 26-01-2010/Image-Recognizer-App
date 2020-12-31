@@ -1,0 +1,27 @@
+body
+{
+    color: #f3f3f3;
+    font-weight: bold;
+    background: #411f1f;
+}
+
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+    font-family: cursive;
+}
+.name_of_objects, #result_object_name, #result_object_accuracy
+{
+    color: #411f1f;
+}
+#camera
+{
+    border: 2px dashed #f3f3f3;
+    width: 350px;
+    height: 300px;
+}
+.name_of_family_members
+{
+    font-size: x-large;
+}            
